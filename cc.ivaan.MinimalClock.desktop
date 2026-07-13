@@ -1,0 +1,9 @@
+[Desktop Entry]
+Type=Application
+Name=Minimal Clock
+Comment=A beautiful minimalist clock app for desktop
+Exec=minimal_clock %u
+Icon=cc.ivaan.MinimalClock
+Categories=Utility;Clock;
+MimeType=x-scheme-handler/minimalclock;
+Terminal=false
